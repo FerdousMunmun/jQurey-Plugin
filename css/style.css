@@ -1,0 +1,63 @@
+
+
+
+
+#basicPart{
+    background: skyblue;
+    height: 600px;
+    padding: 100px;
+}
+
+button{
+    padding: 8px 20px;
+    background-image: linear-gradient(to right top, #051937, #004d7a, #008793, #00bf72, #a8eb12);
+    border-radius:10px ;
+    border: none;
+    color: #fff;
+
+}
+.box{
+    margin-top: 20px;
+    height: 250px;
+    width: 250px;
+    border-radius: 10px;
+background-image: linear-gradient(to right, #fb2365, #ff1d87, #ff29ac, #ff3fd3, #fb59fb);
+}
+.nayemerbou{
+    margin-top: 20px;
+    height: 250px;
+    width: 250px;
+    border-radius: 10px;
+background-image: linear-gradient(to right, #fbd523, #ffb200, #ff8c00, #ff6000, #fd1d1e);
+}
+
+#basicpart{
+
+    background: gray;
+    padding: 200px 0;
+
+}
+
+
+
+
+.boxone{
+    margin-top: 20px;
+    padding: 10px;
+    text-align: center;
+    color: #fff;
+    font-weight: 700;
+    border-radius: 10px;
+background-image: linear-gradient(to right top, #6816d4, #4b40d5, #3656cf, #3565c4, #4671b5);
+}
+
+
+.boxtwo{
+    margin-top: 20px;
+    padding: 10px;
+    text-align: center;
+    color: #fff;
+    font-weight: 700;
+    border-radius: 10px;
+background-image: linear-gradient(to right top, #6816d4, #4b40d5, #3656cf, #3565c4, #4671b5);
+}
