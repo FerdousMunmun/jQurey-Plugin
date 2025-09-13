@@ -61,3 +61,44 @@ background-image: linear-gradient(to right top, #6816d4, #4b40d5, #3656cf, #3565
     border-radius: 10px;
 background-image: linear-gradient(to right top, #6816d4, #4b40d5, #3656cf, #3565c4, #4671b5);
 }
+
+#lightBoxPart{
+    padding: 100px 0;
+    background: lightpink;
+}
+
+
+
+#venoBoxPart{
+    padding: 100px 0;
+    background: olivedrab;
+}
+
+
+
+.videoBox{
+    padding: 50px;
+    background: orange;
+    text-align: center;
+   
+}
+
+
+
+.videoBox i{
+    font-size: 100px;
+    color: #051937;
+  } 
+
+
+  .animalVideo{
+    padding: 50px;
+    background: rgba(138, 9, 9, 0.842);
+    text-align: center;
+  }
+
+
+  .animalVideo i{
+    font-size: 100px;
+    color: #fff;
+  }
